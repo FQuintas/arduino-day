@@ -1,3 +1,3 @@
 # arduino-day
 Site do Arduino Day da Unigranrio
-Criado por: Francisco Di Lazaro
+Equipe : Francisco Di Lazaro, Nei Gabriel, Hugo Pires.
